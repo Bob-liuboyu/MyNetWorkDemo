@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bb_inActiveBottomBarItemColor">#747474</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bb_darkBackgroundColor">#212121</color>
+    <color name="bb_tabletRightBorderDark">#505050</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#0000FF</color>
+    <color name="transparent_80">#80000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="c_ededeb">#ededeb</color>
+    <color name="c_9d9d9f">#9d9d9f</color>
+
+    <color name="line">#99c4c4c4</color>
+    <color name="grid_line">#979797</color>
+    <color name="lanmu">#2f889b</color>
+
+    <color name="T1">#424b55</color>
+    <color name="T2">#a2aab2</color>
+    <color name="T3">#6d747c</color>
+    <color name="T4">#a9a9a9</color>
+    <color name="T5">#c8c8c8</color>
+    <color name="T6">#c1c4c8</color>
+    <color name="T7">#ffffff</color>
+    <color name="T8">#49bdcc</color>
+    <color name="T9">#a5f3fd</color>
+    <color name="T10">#fdc260</color>
+    <color name="T11">#e4e23c</color>
+    <color name="T12">#f4f4f4</color>
+    <color name="B2">#f4f4f4</color>
+</resources>
